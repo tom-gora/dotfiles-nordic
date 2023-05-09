@@ -2,7 +2,7 @@ More NORD dotfiles goodies from Tom coming with time.
 
 
 
-Riced system config:
+Info about my riced system:
 
 ![neofetch.png](./assets/neofetch.png)
 

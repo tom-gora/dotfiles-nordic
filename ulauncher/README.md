@@ -2,7 +2,7 @@
 
 - theme, my mod of ulauncher-nord (see [README.md](./user-themes/nord-tom) for the theme):
   
-  ![screenshot](/home/tomeczku/repos/dotfiles/ulauncher/assets/ulauncher_theme.png)
+  ![screenshot](./ulauncher/assets/ulauncher_theme.png)
 
 - non-private scripts for quick mounting / unmounting Windows VM ssd and for running / killing this VM on second workspace. Scripts made to use with ulauncher-custom-scripts extension:
   
@@ -12,7 +12,7 @@
 
 - custom icons for those scripts to go with nord theme:
   
-  ![icons](/home/tomeczku/repos/dotfiles/ulauncher/assets/icons.png)
+  ![icons](./ulauncher/assets/icons.png)
 
 - my installed extensions config:
 

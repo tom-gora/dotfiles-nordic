@@ -1,0 +1,28 @@
+[
+  {
+    "name": "RUN WINDOWS VM",
+    "description": "Win11",
+    "icon": "/home/tomeczku/.icons/windows_on.svg",
+    "script": "~/.config/ulauncher/user-scipts/windows.sh"
+  },
+  {
+    "name": "KILL WINDOWS VM",
+    "description": "Win11",
+    "icon": "~/.icons/windows_off.svg",
+    "script": "virsh shutdown win11"
+  },
+  {
+    "name": "MOUNT SECOND SSD DRIVE",
+    "description": "Win drive mount",
+    "icon": "~/.icons/hard_drive_in.png",
+    "script": "udisksctl mount --block-device=/dev/nvme0n1p1",
+    "default_arguments": ["~/.config/ulauncher/scripts.json"]
+  },
+  {
+    "name": "UNMOUNT SECOND SSD DRIVE",
+    "description": "Win drive unmount",
+    "icon": "~/.icons/hard_drive_out.png",
+    "script": "udisksctl unmount --block-device=/dev/nvme0n1p1",
+    "default_arguments": ["~/.config/ulauncher/scripts.json"]
+  }
+]

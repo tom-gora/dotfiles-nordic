@@ -14,7 +14,7 @@
   
   ![icons](./assets/icons.png)
 
-- my installed extensions config:
+- my installed extensions list:
 
 ```
     calculate-anything =>     https://github.com/tchar/ulauncher-albert-calculate-anything

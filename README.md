@@ -1,4 +1,8 @@
-More NORD dotfiles goodies from Tom coming with time.
+More NORD dotfiles goodies from Tom coming with time as I prepare them.
+
+Preview:
+
+[slides](./assets/slides.gif)
 
 Info about my riced system:
 

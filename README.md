@@ -2,7 +2,7 @@ More NORD dotfiles goodies from Tom coming with time as I prepare them.
 
 Preview:
 
-[slides](./assets/slides.gif)
+![slides](./assets/slides.gif)
 
 Info about my riced system:
 

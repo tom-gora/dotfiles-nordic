@@ -1,0 +1,3 @@
+# command tied to my keybinding to toggle the terminal dropdown
+
+tdrop -amh 85% kitty

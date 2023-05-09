@@ -4,7 +4,7 @@ More NORD dotfiles goodies from Tom coming with time.
 
 Riced system config:
 
-![neofetch.png](/home/tomeczku/repos/dotfiles/assets/neofetch.png)
+![neofetch.png](./assets/neofetch.png)
 
 
 
@@ -12,11 +12,11 @@ Included so far:
 
 - wallpaper
   
-  ![wallpaper.jpg](/home/tomeczku/repos/dotfiles/assets/wallpaper.jpg)
+  ![wallpaper.jpg](./assets/wallpaper.jpg)
 
 - a couple custom icons [ferdium, intellij_idea, opera_browser, spring_boot_project]
   
-  ![icons.png](/home/tomeczku/repos/dotfiles/assets/icons.png)
+  ![icons.png](./assets/icons.png)
 
 - ulauncher config
 

@@ -16,7 +16,12 @@ Setup:
 
 - Terminal: [Kitty](https://github.com/kovidgoyal/kitty) with [tdrop](https://github.com/noctuid/tdrop) to create a Quake-like dropdown effect + [Kitty nord theme](https://github.com/connorholyday/nord-kitty) + zsh shell with [OhMyZsh]([https://github.com/ohmyzsh/ohmyzsh) and [P10k](https://github.com/romkatv/powerlevel10k)
 
-- Wallpaper:
+- Neovim using Lazyvim with some modifications ported from Astro.
+Special thanks for inspiration for Alpha theme go to: [s-hirvonen](https://github.com/s-hirvonen/.dotfiles)
+
+![neovim.png](./assets/nvim.png)
+
+- Wallpaper: 
   
   ![wallpaper.jpg](./assets/wallpaper.jpg)
 

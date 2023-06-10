@@ -117,13 +117,15 @@ require("colorizer").setup({
     lua = { names = false }, -- Disable parsing "names" like Blue or Gray
     mason = { names = false }, -- Disable parsing "names" like Blue or Gray
     lazy = { names = false }, -- Disable parsing "names" like Blue or Gray
+    checkhealth = { names = false }, -- Disable parsing "names" like Blue or Gray
+    alpha = { names = false }, -- Disable parsing "names" like Blue or Gray
   },
   cmp_docs = { always_update = true },
 })
 
 require("smartcolumn").setup({
   colorcolumn = "98",
-  disabled_filetypes = { "help", "text", "markdown", "lazy", "alpha", "mason" },
+  disabled_filetypes = { "help", "text", "markdown", "lazy", "alpha", "mason", "checkhealth" },
   custom_colorcolumn = {},
   scope = "file",
 })
